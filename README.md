@@ -1,1 +1,1 @@
-# flux-multi-tenancy
+# flux-multi-tenancy-demo
